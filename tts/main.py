@@ -11,7 +11,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 VOICE_MAP = {
     "kk": "kk-KZ-AigulNeural",      # Казахский
-    "ru": "ru-RU-DmitryNeural",     # Русский
+    "ru": "ru-RU-SvetlanaNeural",   # Русский
     "en": "en-US-AriaNeural",       # Английский
 }
 
